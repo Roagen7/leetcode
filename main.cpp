@@ -1,5 +1,5 @@
-#include "TrappingRainWater.h"
+#include "MinimumPenaltyForAShop.h"
 
 int main() {
-    TrappingRainWater::tests();
+    MinimumPenaltyForAShop::tests();
 }
