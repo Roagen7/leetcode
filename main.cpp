@@ -1,5 +1,5 @@
-#include "ProfitableSchemes.h"
+#include "TrappingRainWater.h"
 
 int main() {
-    ProfitableSchemes::tests();
+    TrappingRainWater::tests();
 }
